@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SketchA5</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="load">Load</string>
+	<string name="config">Configure</string>
+	<string name="apply">Apply</string>
+	<string name="frame_rate">Frame Rate</string>
+	<string name="background_color">Background Color</string>
+	<string name="red">Red</string>
+	<string name="green">Green</string>
+	<string name="blue">Blue</string>
+	<string name="select_file">Select a File</string>
+	<string name="back">Back</string>
+</resources>
